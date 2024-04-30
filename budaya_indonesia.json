@@ -4,6 +4,7 @@
       "id": 0,
       "province": "Aceh",
       "english": "Aceh",
+      "indonesia": "Aceh",
       "tarian": "Tari Likok Pulo",
       "tarian_desc": "Tari Likok Pulo adalah sebuah tarian tradisional yang berasal dari Aceh, Indonesia. 'Likok' berarti gerak tari, sementara 'Pulo' berarti pulau. Pulo di sini merujuk pada sebuah pulau kecil di ujung utara Pulau Sumatra yang juga disebut Pulau Breuh, atau Pulau Beras.",
       "tarianImg": "https://i.ibb.co/XVBCKKg/1.png"
@@ -12,6 +13,7 @@
       "id": 1,
       "province": "Sumatera Utara",
       "english": "North_Sumatra",
+      "indonesia": "Sumatera_Utara",
       "tarian": "Tari Serampang dua belas",
       "tarian_desc": "Tari serampang dua belas mengisahkan tentang cinta pertama antara sepasang manusia. Pada akhirnya, kedua pasangan tersebut berhasil melanjutkan ke jenjang yang lebih serius, yaitu pernikahan.",
       "tarianImg": "https://i.ibb.co/dcvqMkb/2.png"
@@ -20,6 +22,7 @@
       "id": 2,
       "province": "Sumatera Barat",
       "english": "West_Sumatra",
+      "indonesia": "Sumatera_Barat",
       "tarian": "Tari Payung",
       "tarian_desc": "Tari Payung merupakan tarian tradisional dari Minangkabau, Sumatra Barat dengan perlengkapan utama berupa payung. Tarian daerah yang dikenal oleh masyarakat bersamaan dengan Tari Piring, Tari Randai dan Tari Indang ini menggambarkan pergaulan muda-mudi, cinta, dan kasih sayang.",
       "tarianImg": "https://i.ibb.co/3vw7DcD/3.png"
@@ -28,6 +31,7 @@
       "id": 3,
       "province": "Riau",
       "english": "Riau",
+      "indonesia": "Riau",
       "tarian": "Tarian Gamelan",
       "tarian_desc": "Tarian Gamelan adalah tarian istana yang populer pada masa Kesultanan Riau Lingga. Tarian ini awalnya diperkenalkan di Tanah Melayu, yaitu di Istana Bendahara Tun Ali, Pahang. Nama Gamelan yang digunakan dalam penamaan tari ini didasarkan pada gamelan yang mengiringi tarian ini.",
       "tarianImg": "https://i.ibb.co/0DZShMh/4.png"
@@ -36,6 +40,7 @@
       "id": 4,
       "province": "Jambi",
       "english": "Jambi",
+      "indonesia": "Jambi",
       "tarian": "Tari Sekapur Sirih",
       "tarian_desc": "Tari Sekapur Sirih merupakan tari tradisional penyambutan tamu yang tergolong baru. Tarian ini diperkenalkan pada tahun 1962 oleh penciptanya seorang seniman kondang asal Jambi yaitu Firdaus Chatab.",
       "tarianImg": "https://i.ibb.co/KXv13tS/5.png"
@@ -44,6 +49,7 @@
       "id": 5,
       "province": "Sumatera Selatan",
       "english": "South_Sumatra",
+      "indonesia": "Sumatera_Selatan",
       "tarian": "Tarian Ngantat Dendan",
       "tarian_desc": "Tari ngantat dendan merupakan tari kreasi yang digarap khusus sebagai tari yang menggambarkan iring-iringan pengantin pria dalam pernikahan adat Kota Lubuklinggau, Sumatra Selatan. Ciri utama dari tari ngantat dendan adalah penggunaan properti berupa jaras, yaitu rantang besar yang diikat menggunakan selendang dan diletakkan di kepala.",
       "tarianImg": "https://i.ibb.co/DYMDjkw/6.png"
@@ -52,6 +58,7 @@
       "id": 6,
       "province": "Bengkulu",
       "english": "Bengkulu",
+      "indonesia": "Bengkulu",
       "tarian": "Tari Bubu",
       "tarian_desc": "Tari bubu merupakan nama tarian daerah Bengkulu yang terinspirasi dari tradisi masyarakat Bengkulu ketika menangkap ikan menggunakan bubu dan sampai saat ini masih bisa ditemukan di daerah Bengkulu.",
       "tarianImg": "https://i.ibb.co/QMDzWMs/7.png"
@@ -60,6 +67,7 @@
       "id": 7,
       "province": "Lampung",
       "english": "Lampung",
+      "indonesia": "Lampung",
       "tarian": "Tari Bedana",
       "tarian_desc": "Tari Bedana merupakan salah satu tarian tradisional Zapin Melayu yang berasal dari daerah Lampung. Tari Bedana biasa dibawakan oleh pemuda-pemudi Lampung dalam acara tertentu sebagai ungkapan rasa gembira.",
       "tarianImg": "https://i.ibb.co/718z9PG/8.png"
@@ -68,6 +76,7 @@
       "id": 8,
       "province": "Kepulauan Bangka Belitung",
       "english": "Bangka_Belitung_Islands",
+      "indonesia": "Kepulauan_Bangka_Belitung",
       "tarian": "Tari Dincak Dambus",
       "tarian_desc": "Dincak Dambus merupakan tarian berpasangan yang berasal dari Pulau Bangka. Tarian ini mengiringi suatu pentas pertunjukan musik dambus.",
       "tarianImg": "https://i.ibb.co/HPK9JhL/9.png"
@@ -76,6 +85,7 @@
       "id": 9,
       "province": "Kepulauan Riau",
       "english": "Riau_Islands",
+      "indonesia": "Kepulauan_Riau",
       "tarian": "Tari Tandak",
       "tarian_desc": "Tari tandak adalah salah satu tarian tradisional asal Kepulauan Riau (Kepri) yang sangat kuat dipengaruhi oleh adat dan kebiasaan masyarakat suku Melayu. Tari tandak awalnya digunakan sebagai tari pergaulan para remaja sebagai ajang biro jodoh.",
       "tarianImg": "https://i.ibb.co/VMK0LCC/10.png"
@@ -84,6 +94,7 @@
       "id": 10,
       "province": "DKI Jakarta",
       "english": "Jakarta",
+      "indonesia": "Daerah_Khusus_Ibukota_Jakarta",
       "tarian": "Tari Yapong",
       "tarian_desc": "Berbeda dengan tarian tradisional pada umumnya yang berasal dari warisan budaya turun-temurun selama beratus tahun.Tari yapong baru saja diciptakan pada tahun 1977 yang dipersiapkan khusus untuk pertunjukan ulang tahun ibukota Jakarta ke-450. Dinas Kebudayaan DKI membuat ide untuk menciptakan tarian yang kemudian direlasikan oleh Bagong Kusudiarjo.",
       "tarianImg": "https://i.ibb.co/cJBSwmY/11.png"
@@ -92,6 +103,7 @@
       "id": 11,
       "province": "Jawa Barat",
       "english": "West_Java",
+      "indonesia": "Jawa_Barat",
       "tarian": "Tari Jaipong",
       "tarian_desc": "Tari Jaipong merupakan sebuah tarian tradisional yang berasal dari daerah Karawang, Jawa Barat. Tarian ini berkembang di era tahun 1960 an. Awalnya tari ini dikenal masyarakat dengan nama Tari Banjet.",
       "tarianImg": "https://i.ibb.co/BGZKvnb/12.png"
@@ -100,6 +112,7 @@
       "id": 12,
       "province": "Jawa Tengah",
       "english": "Central_Java",
+      "indonesia": "Jawa_Tengah",
       "tarian": "Tari Topeng Endel",
       "tarian_desc": "Tari Topeng Endel adalah tarian khas Tegal yang menggambarkan seorang wanita genit atau dalam Bahasa Tegalnya, “lenjeh”. Tari Topeng Endel hanya dapat dibawakan oleh penari wanita dengan menggunakan topeng yang berwujud wanita cantik, berwajah putih, dan murah senyum.",
       "tarianImg": "https://i.ibb.co/Pzm8MNN/13.png"
@@ -108,6 +121,7 @@
       "id": 13,
       "province": "DI Yogyakarta",
       "english": "Special_Region_of_Yogyakarta",
+      "indonesia": "Daerah_Istimewa_Yogyakarta",
       "tarian": "Tari Serimpi",
       "tarian_desc": "Tari Serimpi adalah bentuk repertoar tari Jawa klasik yang berasal dari tradisi kraton Kesultanan Mataram. Tarian ini sudah ada sejak zaman kerajaan dan terkenal memiliki gerak yang sangat halus dan cerita yang mengandung nilai simbolis. Pada zaman Mataram, Serimpi berfungsi sebagai tari pengiring pada upacara kerajaan.",
       "tarianImg": "https://i.ibb.co/xqGdq1x/14.png"
@@ -116,6 +130,7 @@
       "id": 14,
       "province": "Jawa Timur",
       "english": "East_Java",
+      "indonesia": "Jawa_Timur",
       "tarian": "Tari Reog",
       "tarian_desc": "Reog adalah tarian tradisional dari Ponorogo, Jawa Timur. Tarian ini menampilkan sosok berkepala singa dengan hiasan bulu merak dan topeng macan berukuran besar. Tarian ini berfungsi sebagai hiburan rakyat dan mengandung unsur magis.",
       "tarianImg": "https://i.ibb.co/Wy7wVMV/15.png"
@@ -124,6 +139,7 @@
       "id": 15,
       "province": "Banten",
       "english": "Banten",
+      "indonesia": "Banten",
       "tarian": "Tari Ngebaksakeun",
       "tarian_desc": "Tari ngebaksakeun merupakan tarian dari Banten yang diadopsi dari pijakan silat terumbu dengan gaya dari Kabupaten Pandeglang dan biasanya akan dipertunjukkan untuk menyambut tamu. Durasi tarian ini hanya berdurasi selama 5 menit dan kostum yang digunakan didominasi dengan warna biru.",
       "tarianImg": "https://i.ibb.co/GJs87SX/16.png"
@@ -132,6 +148,7 @@
       "id": 16,
       "province": "Bali",
       "english": "Bali",
+      "indonesia": "Bali",
       "tarian": "Tari Kecak",
       "tarian_desc": "Tari kecak merupakan salah satu kesenian khas Bali yang memadukan seni tari dan seni peran. Uniknya, tari kecak dilakukan oleh sekelompok orang dan tanpa diiringi oleh alunan musik. Gerakan dalam tari kecak menceritakan tentang kisah perwayangan Ramayana yang dikemas apik sehingga tarian ini menjadi salah satu pertunjukan favorit di Pulau Bali.",
       "tarianImg": "https://i.ibb.co/vmkP1Db/17.png"
@@ -140,6 +157,7 @@
       "id": 17,
       "province": "Nusa Tenggara Barat",
       "english": "West_Nusa_Tenggara",
+      "indonesia": "Nusa_Tenggara_Barat",
       "tarian": "Tari Gandrung",
       "tarian_desc": "Asal usul tari gandrung sendiri ditulis dalam sebuah makalah berjudul Gandroeng Van Banyuwangi yang ditulis oleh John Scholte pada tahun 1926. Menurut Scholte, tarian ini dibuat oleh seorang pemuda bernama Marsan yang menarikan tari gandrung bersama pemain musik tradisional di jalanan. Mereka melakukan itu dengan berkeliling ke desa-desa dan diberi penghargaan berupa beras dan bahan pokok lainnya.",
       "tarianImg": "https://i.ibb.co/WzZLj6y/18.png"
@@ -148,6 +166,7 @@
       "id": 18,
       "province": "Nusa Tenggara Timur",
       "english": "East_Nusa_Tenggara",
+      "indonesia": "Nusa_Tenggara_Timur",
       "tarian": "Tari Kataga",
       "tarian_desc": "Tari Kataga adalah tarian tradisional sejenis tarian perang yang khas dari Sumba Barat, Nusa Tenggara Timur (NTT). Tarian ini biasanya dimainkan oleh para penari pria dengan berkostum adat dan dilengkapi senjata seperti pedang dan perisai.",
       "tarianImg": "https://i.ibb.co/3Y163w2/19.png"
@@ -156,6 +175,7 @@
       "id": 19,
       "province": "Kalimantan Barat",
       "english": "West_Kalimantan",
+      "indonesia": "Kalimantan_Barat",
       "tarian": "Tari Monang",
       "tarian_desc": "Tari Monong adalah tarian tradisional dari Suku Dayak di Kalimantan Barat. Tarian ini juga dikenal sebagai Tari Manang atau Tari Balian. Tarian ini dihadirkan saat tetua atau dukun tengah dalam keadaan trance (di bawah alam sadar). Tari Monong merupakan salah satu kesenian tradisional yang masih terjaga hingga saat ini. Tarian ini digunakan sebagai cara untuk menyembuhkan penyakit dan menolak bala melalui serangkaian ritual kepercayaan.",
       "tarianImg": "https://i.ibb.co/k0BfXcB/20.png"
@@ -164,6 +184,7 @@
       "id": 20,
       "province": "Kalimantan Tengah",
       "english": "Central_Kalimantan",
+      "indonesia": "Kalimantan_Tengah",
       "tarian": "Tari Kinyah Mandau",
       "tarian_desc": "Tari Kinyah Mandau adalah salah satu tari tradisional yang berasal dari suku Dayak, Kalimantan Tengah. Tarian ini menampilkan unsur bela diri, seni teatrikal, dan seni perang dengan memadukan beberapa unsur tersebut dan membuat gerakan-gerakan yang indah.",
       "tarianImg": "https://i.ibb.co/YtNxS1M/21.png"
@@ -172,6 +193,7 @@
       "id": 21,
       "province": "Kalimantan Selatan",
       "english": "South_Kalimantan",
+      "indonesia": "Kalimantan_Selatan",
       "tarian": "Tari Baksa Kembang",
       "tarian_desc": "Tari Baksa Kembang merupakan tari klasik asal Keraton Banjar dari Kalimantan Selatan. Tari tradisional satu ini merupakan tarian yang dipentaskan ketika menyambut tamu kehormatan dan dibawakan oleh putri-putri Keraton Banjar. Saat ini, tari Baksa Kembang ditampilkan oleh masyarakat dalam upacara pernikahan maupun acara lainnya.",
       "tarianImg": "https://i.ibb.co/bvzwsp5/22.png"
@@ -180,6 +202,7 @@
       "id": 22,
       "province": "Kalimantan Timur",
       "english": "East_Kalimantan",
+      "indonesia": "Kalimantan_Timur",
       "tarian": "Tari Hudoq",
       "tarian_desc": "Tari Hudoq – Tari Hudoq menjadi jenis tarian tradisional dengan unsur mistis yang cukup kental. Tarian ini sendiri merupakan tarian yang menunjukkan rasa syukur atas hasil panen yang telah didapatkan.",
       "tarianImg": "https://i.ibb.co/h2pLzcw/23.png"
@@ -188,6 +211,7 @@
       "id": 23,
       "province": "Kalimantan Utara",
       "english": "North_Kalimantan",
+      "indonesia": "Kalimantan_Utara",
       "tarian": "Tari Magunatip",
       "tarian_desc": "Tari Magunatip atau Tari Lalatip merupakan tarian tradisional yang berasal dari daerah Tarakan dan Malinau Kalimantan Utara. Pada jaman dahulu tarian magunatip digunakan sebagai latihan ketangkasan kaki dalam melompat dan menghindari rintangan. Hal ini dilakukan karena adanya perang antar suku. Kemudian latihan ketangkasan itu kini dijadikan sebuah tarian.",
       "tarianImg": "https://i.ibb.co/ySwKrCD/24.png"
@@ -196,6 +220,7 @@
       "id": 24,
       "province": "Sulawesi Utara",
       "english": "North_Sulawesi",
+      "indonesia": "Sulawesi_Utara",
       "tarian": "Tari Kabasaran",
       "tarian_desc": "Tari Kabasaran adalah tarian perang tradisional dari daerah Minahasa, Sulawesi Utara. Tarian ini diangkat dari kata 'Wasal', yang berarti ayam jantan yang dipotong jenggernya agar sang ayam menjadi lebih garang dalam bertarung. Tarian ini diiringi oleh suara tambur dan / atau gong kecil. Tarian ini dimainkan oleh para penari pria yang menari dengan menggunakan pakaian perang dan juga senjata seperti pedang, tombak serta perisai.",
       "tarianImg": "https://i.ibb.co/hYBcrPc/25.png"
@@ -204,6 +229,7 @@
       "id": 25,
       "province": "Sulawesi Tengah",
       "english": "Central_Sulawesi",
+      "indonesia": "Sulawesi_Tengah",
       "tarian": "Tari Dero",
       "tarian_desc": "Tari Dero adalah salah satu tarian tradisional masyarakat Suku Pamona di Sulawesi Tengah. Tarian ini tergolong tarian pergaulan yang ditarikan secara masal oleh semua kalangan masyarakat, baik pria maupun wanita, baik tua maupun muda bisa melakukan tarian ini. Tari Dero ini merupakan salah satu tradisi lama masyarakat Suku Pamona yang masih dipertahankan hingga sekarang dan sering ditampilkan di berbagai acara seperti upacara adat, pesta adat, penyambutan, dan berbagai acara yang bersifat hiburan dan budaya lainnya.",
       "tarianImg": "https://i.ibb.co/XDtPtGm/26.png"
@@ -212,6 +238,7 @@
       "id": 26,
       "province": "Sulawesi Selatan",
       "english": "South_Sulawesi",
+      "indonesia": "Sulawesi_Selatan",
       "tarian": "Tari Manimbong",
       "tarian_desc": "Tari Manimbong adalah tarian tradisional dari suku Toraja, Sulawesi Selatan. Tarian ini hanya ditampilkan pada upacara adat Rambu Tuka' atau upacara adat syukuran oleh masyarakat Toraja.",
       "tarianImg": "https://i.ibb.co/ydZC6VD/27.png"
@@ -220,6 +247,7 @@
       "id": 27,
       "province": "Sulawesi Tenggara",
       "english": "Southeast_Sulawesi",
+      "indonesia": "Sulawesi_Tenggara",
       "tarian": "Tari Lariangi",
       "tarian_desc": "Lariangi adalah seni pertunjukan yang berasal dari Kaledupa Kepulauan Wakatobi, Sulawesi Tenggara. Seni pertunjukan ini berupa tarian tradisional. Tarian ini telah ditetapkan menjadi Warisan Budaya Nasional pada 2013 dan dinominasikan sebagai Warisan tak Benda oleh UNESCO.",
       "tarianImg": "https://i.ibb.co/v1KHJkk/28.png"
@@ -228,6 +256,7 @@
       "id": 28,
       "province": "Gorontalo",
       "english": "Gorontalo",
+      "indonesia": "Gorontalo",
       "tarian": "Tari Polopalo",
       "tarian_desc": "Dinamakan palo palo karena tarian ini menggunakan properti palo palo dan menghasilkan bunyi yang khas Tarian ini kini terdapat dua jenis, yaitu tarian klasik dan modern. Perbedaan yang mencolok terletak pada jumlah penari dan iringan musiknya.",
       "tarianImg": "https://i.ibb.co/p2G3fVh/29.png"
@@ -236,6 +265,7 @@
       "id": 29,
       "province": "Sulawesi Barat",
       "english": "West_Sulawesi",
+      "indonesia": "Sulawesi_Barat",
       "tarian": "Tari Bulu Londong",
       "tarian_desc": "Tari Bulu Londong berasal dari daerah Mamasa, Provinsi Sulawesi Barat. Tarian ini adalah jenis tarian perang yang biasa dilakukan saat prajurit kembali setelah dari medan perang. Pada jaman dahulu, tarian ini dilakukan sebagai ucapan rasa syukur atas kemenangan yang diraih oleh para prajurit. Sekaligus mereka merayakan kemenangan dengan penuh kegembiraan melalui tarian ini.",
       "tarianImg": "https://i.ibb.co/09HmKDX/30.png"
@@ -244,6 +274,7 @@
       "id": 30,
       "province": "Maluku",
       "english": "Maluku_(province)",
+      "indonesia": "Maluku",
       "tarian": "Saureka-reka",
       "tarian_desc": "Konon Tari Saureka Reka ini sudah ada sejak jaman dahulu di Maluku, khususnya daerah Maluku Tengah. Tari Saureka Reka ini dulunya sering dilakukan oleh para petani sagu saat musim panen tiba. Tarian ini dilakukan sebagai ungkapan rasa gembira dan rasa syukur masyarakat atas hasil panen mereka. Di Maluku selain kaya akan hasil rempah-rempahnya juga banyak terdapat pohon sagu. Sagu biasanya digunakan oleh masyarakat untuk bahan konsumsi, selain itu kayunya dapat digunakan sebagai bahan bangunan atau alat musik tradisional seperti tifa dan gaba-gaba yang digunakan untuk Tari Saureka Reka ini.",
       "tarianImg": "https://i.ibb.co/vHmdckc/31.png"
@@ -252,6 +283,7 @@
       "id": 31,
       "province": "Maluku Utara",
       "english": "North_Maluku",
+      "indonesia": "Maluku_Utara",
       "tarian": "Tari Lalayon",
       "tarian_desc": "Tari Lalayon adalah sebuah karya tari pergaulan yang berasal dari Maluku Utara. Tarian ini berisi pesan-pesan berbau romantis dan cinta. Oleh sebab itu, tarian ini biasa dibawakan secara berpasang-pasangan dan memiliki gerakan -gerakan yang indah di sepanjang babak tariannya.",
       "tarianImg": "https://i.ibb.co/bgmtRWr/32.png"
@@ -260,6 +292,7 @@
       "id": 32,
       "province": "Papua Barat",
       "english": "West_Papua_(province)",
+      "indonesia": "Papua_Barat",
       "tarian": "Tari Yospan",
       "tarian_desc": "Yospan sendiri adalah singkatan dari Yosim dan Pancar sebagai dua tarian rakyat dari daerah berbeda. Tari Yosim berasal dari wilayah Serui, Waropen (teluk Sairei) yang memiliki gerakan tari yang lincah dan mengutamakan kebebasan gerak. Mirip tarian polonaise dari Eropa. Sedangkan Tari Pancar berasal dari Biak, Manokwari dan Numfor yang merupakan tarian hasil akulturasi budaya Biak yang terpengaruh ajaran Kristen Protestan yang masuk tahun 1908. Gerakan tarinya lebih kaku dengan iringan musik dari tifa, ukulele atau gitar.",
       "tarianImg": "https://i.ibb.co/vxTdD4y/33.png"
@@ -268,6 +301,7 @@
       "id": 33,
       "province": "Papua",
       "english": "Papua_(province)",
+      "indonesia": "Papua",
       "tarian": "Tari Suanggi",
       "tarian_desc": "Dari sekian banyak warisan budaya Indonesia, masih sangat sedikit catatan mengenai Tari Suanggi dari Papua Barat ini. Menurut beberapa literatur, Tari Suanggi adalah bentuk ekspresi masyarakat Papua Barat terhadap kekentalan nuansa magis yang ada di daerah tersebut.",
       "tarianImg": "https://i.ibb.co/Zc61WKp/34.png"
